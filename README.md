@@ -1,4 +1,4 @@
-# finalpro
+# Future ready talent project by Prashant Chakane.
 here i created a food web app named Foodie Blog that help people to stay healthy & make delicious food.
 
 # my website link  https://proud-wave-0458d0f10.1.azurestaticapps.net/
